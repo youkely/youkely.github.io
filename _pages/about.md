@@ -21,16 +21,16 @@ I am an algorithm enginner at Huawei. I received my M.Sc. degree from [ETH Zuric
 * Autonomous driving, robotics, AR/VR
 
 ## Selected Publications
-Huai Jianzhu, Lin Yukai, Zhuang Yuan, Toth Charles, Chen Dong. Observability Analysis and Keyframe-Based Filtering for Visual
-Inertial Odometry with Full Self-Calibration. *IEEE Transactions on Robotics(T-RO)*, 2022(accepted).
+Huai J., **Lin Y.**, Zhuang Y., Toth C., Chen D. (2022). Observability Analysis and Keyframe-Based Filtering for Visual
+Inertial Odometry with Full Self-Calibration. *IEEE Transactions on Robotics(T-RO)*.(accepted)
 
-Huai, Jianzhu, Yuan Zhuang, Yukai Lin, Grzegorz Jozkow, Qicheng Yuan, and Dong Chen. "Continuous-time spatiotemporal calibration of a rolling shutter camera-IMU system." *IEEE Sensors Journal* 22, no. 8 (2022): 7920-7930.
+Huai, J., Zhuang, Y., **Lin, Y.**, Jozkow, G., Yuan, Q., & Chen, D. (2022). Continuous-time spatiotemporal calibration of a rolling shutter camera-IMU system. *IEEE Sensors Journal*, 22(8), 7920-7930.
 
-Huai, Jianzhu, Yukai Lin, Yuan Zhuang, and Min Shi. "Consistent Right-Invariant Fixed-Lag Smoother with Application to Visual Inertial SLAM." In *Proceedings of the AAAI Conference on Artificial Intelligence*, vol. 35, no. 7, pp. 6084-6092. 2021.
+Huai, J., **Lin, Y.**, Zhuang, Y., & Shi, M. (2021, May). Consistent Right-Invariant Fixed-Lag Smoother with Application to Visual Inertial SLAM. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 35, No. 7, pp. 6084-6092).
 
-Lin, Yukai, Viktor Larsson, Marcel Geppert, Zuzana Kukelova, Marc Pollefeys, and Torsten Sattler. "Infrastructure-based multi-camera calibration using radial projections." In *European Conference on Computer Vision*, pp. 327-344. Springer, Cham, 2020.
+**Lin, Y.**, Larsson, V., Geppert, M., Kukelova, Z., Pollefeys, M., & Sattler, T. (2020, August). Infrastructure-based multi-camera calibration using radial projections. In *European Conference on Computer Vision* (pp. 327-344). Springer, Cham.
 
-Gawel, Abel, Yukai Lin, Théodore Koutros, Roland Siegwart, and Cesar Cadena. "Aerial-Ground collaborative sensing: Third-Person view for teleoperation." In *2018 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)*, pp. 1-7. IEEE, 2018.
+Gawel, A., **Lin, Y.**, Koutros, T., Siegwart, R., & Cadena, C. (2018, August). Aerial-Ground collaborative sensing: Third-Person view for teleoperation. In *2018 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)* (pp. 1-7). IEEE.
 
 ## For more information
 More info about Yukai Lin can be found in [CV](https://youkely.github.io/cv/)
