@@ -11,7 +11,7 @@ redirect_from:
 I am an algorithm enginner at Huawei. I received my M.Sc. degree from [ETH Zurich](https://ethz.ch/en.html) in 2020, under the supervision of Prof. [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) at Department of Computer Science. During the study, I also finished a robotics project in Autonomous System Lab under the supervision of Prof. [Roland Siegwart](https://asl.ethz.ch/). Before that, I received B.Eng. degree from UM-SJTU Joint Institute (JI), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). I was a research intern in Segway Robotics during winter 2019, working with Dr. [Jianzhu Huai](https://www.jianzhuhuai.com/). I was an exchange student in [Hong Kong University of Science and Techonology](https://hkust.edu.hk/) in Spring 2016, under the supervision of Prof. [Shuhuai Yao](https://rraynachen.wixsite.com/website).
 
 <b>Education:</b>
- <src="/images/ETHlogo.png">
+ <img src="/images/ETHlogo.png">
 
 
 <b>Research Interests:</b>
