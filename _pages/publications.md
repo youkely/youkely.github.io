@@ -74,7 +74,7 @@ Jianzhu Huai, <b>Yukai Lin</b>, Yuan Zhuang, Min Shi. <b>AAAI</b>, 2021.
 <td style="border-collapse: collapse; border: none;">
 <b>Aerial-Ground collaborative sensing: Third-Person view for teleoperation.</b>
 <br>
-Abel Gawel, Yukai Lin, Théodore Koutros, Roland Siegwart, Cesar Cadena. <b>SSRR</b>, 2018.
+Abel Gawel, <b>Yukai Lin</b>, Théodore Koutros, Roland Siegwart, Cesar Cadena. <b>SSRR</b>, 2018.
 <br>
 <span><a href="https://ieeexplore.ieee.org/abstract/document/8468657">Paper</a></span> 
 </td>
