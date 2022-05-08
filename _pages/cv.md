@@ -18,7 +18,10 @@ Education
 
 Work experience
 ------
-* Sep. 2020 – preset: Algorithm Engineer, Intelligent Automotive Solution Business Unit, Huawei Technologies, Shanghai
+* Sep. 2020 - preset: Algorithm Engineer, Intelligent Automotive Solution Business Unit, Huawei Technologies, Shanghai
 * Sep. 2018 - Feb. 2019: Intern on Robotics Algorithm, Segway Robotics, Beijing
 * Jan. 2017 - May 2017: Intern on Computer-Aided-Analysis, Robert Bosch Automotive Steering GmbH, Shanghai
 
+Academic services
+------
+Conference Reviewer: ICRA, IROS, ECCV
