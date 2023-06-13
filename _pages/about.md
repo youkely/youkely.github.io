@@ -13,6 +13,12 @@ I am an algorithm engineer at Huawei. I received my M.Sc. degree from [ETH Zuric
 <b>News:</b>
 * Our team won the **first place** of the Map-Based Localization for Autonomous Driving challenge([MLAD](https://sites.google.com/view/mlad-eccv2022/home)) on ECCV 2022!
 
+### Education:
+<ul>
+  <li>M.Sc. in Robotics, ETH Zurich, 2020</li>
+  <li>B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2017</li>
+</ul>
+
 <b>Education:</b>
 * M.Sc. in Robotics, ETH Zurich, 2020
 * B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2017
