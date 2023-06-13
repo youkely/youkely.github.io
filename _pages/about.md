@@ -10,7 +10,7 @@ redirect_from:
 
 I am an algorithm engineer at Huawei. I received my M.Sc. degree from [ETH Zurich](https://ethz.ch/en.html) in 2020, under the supervision of Prof. [Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) at Department of Computer Science. During the study, I also finished a robotics project in Autonomous System Lab under the supervision of Prof. [Roland Siegwart](https://asl.ethz.ch/). Before that, I received B.Eng. degree from UM-SJTU Joint Institute (JI), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). I was a research intern in Segway Robotics during winter 2019, working with Dr. [Jianzhu Huai](https://www.jianzhuhuai.com/). I was an exchange student in [Hong Kong University of Science and Techonology](https://hkust.edu.hk/) in Spring 2016, under the supervision of Prof. [Shuhuai Yao](https://rraynachen.wixsite.com/website).
 
-<b>News:</b>
+### News:
 * Our team won the **first place** of the Map-Based Localization for Autonomous Driving challenge([MLAD](https://sites.google.com/view/mlad-eccv2022/home)) on ECCV 2022!
 
 ### Education:
@@ -19,11 +19,8 @@ I am an algorithm engineer at Huawei. I received my M.Sc. degree from [ETH Zuric
   <li>B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2017</li>
 </ul>
 
-<b>Education:</b>
-* M.Sc. in Robotics, ETH Zurich, 2020
-* B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2017
 
-<b>Research Interests:</b>
+### Research Interests:
 * Visual localization and visual SLAM
 * Camera calibration and system identification
 * State estimation and sensor fusion
