@@ -28,6 +28,8 @@ I am an algorithm engineer at Huawei. I received my M.Sc. degree from [ETH Zuric
 * Autonomous driving, robotics, AR/VR
 
 ## Selected Publications
+**Y. Lin**, L. Liu, X. Liang, J. Li (2023, October). Visual Localization Based on Multiple Maps. In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* (pp. 3306-3313). IEEE.
+
 J. Huai, **Y. Lin**, Y. Zhuang, C. Toth, D. Chen (2022). Observability Analysis and Keyframe-Based Filtering for Visual
 Inertial Odometry with Full Self-Calibration. *IEEE Transactions on Robotics(T-RO)*, 38(5), 3219-3237.
 
