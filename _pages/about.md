@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an engineer at Horizon Journey. I received my M.Sc. degree from [ETH Zurich](https://ethz.ch/en.html) in 2020. Before that, I received B.Eng. degree from UM-SJTU Joint Institute (JI), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
+I am a software engineer. I received my M.Sc. degree from [ETH Zurich](https://ethz.ch/en.html) in 2020. Before that, I received B.Eng. degree from UM-SJTU Joint Institute (JI), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
 
 ### Education:
