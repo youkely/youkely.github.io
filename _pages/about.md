@@ -19,8 +19,7 @@ I am an engineer at Horizon Journey. I received my M.Sc. degree from [ETH Zurich
 
 
 ### Research Interests:
-* Camera calibration and system identification
-* Visual localization and visual SLAM
+* Camera calibration
 
 ## Selected Publications
 J. Huai, **Y. Lin**, Y. Zhuang, C. Toth, D. Chen (2022). Observability Analysis and Keyframe-Based Filtering for Visual
