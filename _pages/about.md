@@ -16,8 +16,8 @@ I am an engineer at Horizon Robotics. I received my M.Sc. degree from [ETH Zuric
 
 ### Education:
 <ul>
-  <li>M.Sc. in Mechanical Engineering, ETH Zurich, 2020</li>
-  <li>B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2017</li>
+  <li>M.Sc. ETH Zurich, 2020</li>
+  <li>B.Eng. Shanghai Jiao Tong University, 2017</li>
 </ul>
 
 
