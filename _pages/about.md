@@ -22,6 +22,7 @@ I am an engineer at Horizon Robotics. I received my M.Sc. degree from [ETH Zuric
 
 
 ### Research Interests:
+* SFM and 3D reconstruction
 * Camera calibration and system identification
 * Visual localization and visual SLAM
 
