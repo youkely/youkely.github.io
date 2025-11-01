@@ -13,8 +13,8 @@ The full version of my CV will be uploaded.
 
 Education
 ======
-* M.Sc. in Mechanical Engineering, Graduated with distinction, ETH Zurich, 2020
-* B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University University, 2017
+* M.Sc. Graduated with distinction, ETH Zurich, 2020
+* B.Eng. Shanghai Jiao Tong University University, 2017
 
 Work experience
 ------
